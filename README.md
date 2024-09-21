@@ -1,4 +1,5 @@
-# resumo-do-lab
+# Resumo do Lab - DIO
+
 Este repositório contém o resumo das lições aprendidas durante o desenvolvimento do lab na DIO
 
 Os principais modelos de nuvem (Pública, Privada, e Híbrida), além de conceitos sobre CapEx, OpEx, e o modelo de consumo, oferecendo uma visão completa das opções e vantagens na computação em nuvem.
