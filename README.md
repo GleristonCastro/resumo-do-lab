@@ -23,3 +23,14 @@ A capacidade de adicionar recursos para lidar com o aumento da demanda de consum
 Um aspecto importante na nuvem é o Acordo de Nível de Serviço (SLA), que define as expectativas de desempenho e disponibilidade dos serviços. Por exemplo, um SLA de 99% de disponibilidade significa que o serviço pode estar inativo por até 7,3 horas por mês. Em contraste, um SLA de 99,9% permite apenas cerca de 43 minutos de inatividade por mês, enquanto um SLA de 99,99% restringe o tempo de inatividade a aproximadamente 4,4 minutos mensais. Com um SLA de 99,999%, a inatividade é reduzida a apenas 26 segundos por mês. Esses níveis de serviço ajudam as organizações a entenderem o compromisso do provedor em manter a infraestrutura disponível e a importância de selecionar um SLA que atenda às suas necessidades específicas.
 
 Em resumo, a nuvem pública oferece uma série de vantagens, como a capacidade de gerenciar ambientes de forma eficiente, escalar recursos conforme a necessidade e assegurar a elasticidade para atender a picos de demanda. Além disso, o entendimento dos SLAs é crucial para garantir que as expectativas de desempenho e disponibilidade sejam atendidas, proporcionando uma infraestrutura ágil e segura.
+
+## Parte 3
+
+Os modelos de serviço em nuvem são classificados em três categorias principais: 
+Software como Serviço (SaaS), Plataforma como Serviço (PaaS) e Infraestrutura como Serviço (IaaS), cada um com diferentes níveis de gerenciamento e responsabilidade do usuário.
+
+No modelo SaaS, os usuários pagam pelo software que utilizam em um modelo de assinatura, permitindo acesso a aplicações prontas sem a necessidade de gerenciar a infraestrutura ou realizar atualizações.
+
+O PaaS oferece uma plataforma que permite aos desenvolvedores criar e implantar aplicativos rapidamente, sem se preocupar com a gestão da infraestrutura subjacente, focando apenas no desenvolvimento.
+
+Já o IaaS proporciona maior controle sobre a infraestrutura, exigindo que os usuários gerenciem sistemas operacionais, aplicativos e configurações, além de monitorar e manter os recursos. Assim, enquanto o SaaS minimiza a carga de gerenciamento do usuário, o IaaS requer um envolvimento mais intenso, equilibrando controle e responsabilidade entre os diferentes modelos de serviço.
